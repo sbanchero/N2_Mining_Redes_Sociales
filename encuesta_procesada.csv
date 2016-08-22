@@ -1,4 +1,4 @@
-,Marca.temporal,Momento del día en Argentina,País,Provincia.Estado,Edad,Dispositivo,SO,Amazon,Gmail,Facebook,Twitter,Spotify,LinkedIn,Otro,C1.1,C1.2,C1.3,C1.4,C1.5,C1.6,C2.1,C2.2,C2.3,C2.4,C2.5,C2.6,C2.7,C3.1,C3.2,C3.3,C3.4,C3.5,C3.6,C3.7
+,Marca.temporal,Momento del día,País,Provincia.Estado,Edad,Dispositivo,SO,Amazon,Gmail,Facebook,Twitter,Spotify,LinkedIn,Otro,C1.1,C1.2,C1.3,C1.4,C1.5,C1.6,C2.1,C2.2,C2.3,C2.4,C2.5,C2.6,C2.7,C3.1,C3.2,C3.3,C3.4,C3.5,C3.6,C3.7
 1,5/08/2016 13:02:29,Tarde,Argentina,Bs As,Entre 31 y 45 años,Computadora personal,GNU\Linux,1,1,1,1,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0
 2,5/08/2016 13:12:51,Tarde,Argentina,Buenos Aires,Entre 21 y 30 años,Conputadora laboral,Windows,0,1,0,0,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,0,0,1,0,1,1,0,0
 7,5/08/2016 13:55:11,Tarde,Argentina,Santa Fe,Entre 45 y 60 años,PC o Notebook,Android,0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,1
@@ -14,8 +14,8 @@
 17,5/08/2016 19:46:48,Noche,Argentina,La Pampa,Entre 31 y 45 años,Celular,Android,0,1,0,1,0,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,1,1
 18,6/08/2016 16:14:02,Tarde,Argentina,Ciudad Autónoma de Buenos Aires,Entre 31 y 45 años,PC o Notebook,GNU\Linux,0,1,1,0,0,0,0,1,1,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0
 19,7/08/2016 0:16:12,Madrugada,Argentina,Buenos Aires,Entre 31 y 45 años,PC o Notebook,GNU\Linux,0,1,0,1,0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1
-20,7/08/2016 19:29:25,Madrugada,Alemania,Berlin,Entre 15 y 20 años,PC o Notebook,GNU\Linux,1,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0
-21,7/08/2016 21:59:01,Madrugada,Francia,Paris,Entre 45 y 60 años,PC o Notebook,GNU\Linux,1,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0
+20,7/08/2016 19:29:25,Madrugada,Alemania,Berlin,Entre 15 y 20 años,PC o Notebook,GNU\Linux,1,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,1
+21,7/08/2016 21:59:01,Madrugada,Francia,Paris,Entre 45 y 60 años,PC o Notebook,GNU\Linux,1,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,1
 22,7/08/2016 22:14:14,Madrugada,Francia,Paris,Entre 31 y 45 años,PC o Notebook,GNU\Linux,1,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,1
 23,7/08/2016 22:16:14,Noche,Argentina,buenos aires,Entre 31 y 45 años,PC o Notebook,Windows,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0
 24,8/08/2016 17:04:04,Tarde,Argentina,Buenos Aires,Entre 31 y 45 años,PC o Notebook,Android,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -25,4 +25,17 @@
 28,10/08/2016 9:41:37,Mañana,Argentina,CBA,Entre 45 y 60 años,PC o Notebook,Windows,0,1,1,0,0,1,0,1,1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0
 29,10/08/2016 15:07:36,Tarde,Argentina,Salta,Entre 31 y 45 años,PC o Notebook,Windows,0,1,1,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0
 30,11/08/2016 2:26:49,Madrugada,Argentina,CABA,Entre 31 y 45 años,PC o Notebook,GNU\Linux,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1
-,,,,,,,,6,19,8,6,2,7,5,26,24,16,6,1,,22,22,9,13,1,2,,3,11,1,12,22,3,11
+,,,,,,,,6,19,8,6,2,7,5,26,24,16,6,1,,22,22,9,13,1,2,,3,11,1,12,22,3,13
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,1,Atletismo Basico : Fundamentos De Pista Y Campo,,,,,,,1,"5 Blade Spiralizer - Best Vegetable Maker, Spiral Slicer, Peeler, and Shredder",,,,,,,,,,,,,
+,,,,,,,,,,,,2,Atletismo para Veteran@s,,,,,,,2,Amazon's Palermo Page,,,,,,,,,,,,,
+,,,,,,,,,,,,3,La carga de entrenamiento y el rendimiento en atletismo: Estudios en Velocidad y Saltos (Spanish Edition),,,,,,,3,Blinky Palermo: Retrospective 1964-77 (Dia Foundation) Hardcover,,,,,,,,,,,,,
+,,,,,,,,,,,,4,Atletismo mental: Técnicas para entrenar el cerebro y mejorar la memoria (Spanish Edition),,,,,,,4,Lonely Planet Sicily (Travel Guide),,,,,,,,,,,,,
+,,,,,,,,,,,,5,Atletismo para niños (Spanish Edition),,,,,,,5,"Palermo, City of Kings: The Heart of Sicily",,,,,,,,,,,,,
+,,,,,,,,,,,,6,V copa del mundo De Atletismo,,,,,,,6,Palermo DTH-81 Digital Electronic BBQ Thermometer with Collapsible Internal Probe,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,7,"Palermo: Travels in the City of Happiness: Art, Architec",,,,,,,,,,,,,

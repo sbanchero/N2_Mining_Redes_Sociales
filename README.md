@@ -5,11 +5,11 @@ Búsquedas de libros en Amazon. Se tomaron los tres primeros resultados para un 
 
 
 ## Método general usado
-Para recolectar evidencia se implementó una encuesta a través de Google Formularios (1) donde se relevaron algunos datos sobre los usuarios y en qué condiciones realizaban las consultas y las respuestas obtenidas.
+Para recolectar evidencia se implementó una encuesta a través de Google Formularios (1) donde se relevaron algunos datos sobre los usuarios, en qué condiciones realizaban las consultas y las respuestas obtenidas.
 
 Las consultas que se utilizaron para realizar la prueba fueron: Atletismo, Florencia y Palermo. Los tres términos de búsqueda a priori están asociados a variación de interés según la ubicación, la edad, el momento del día, etc.
 
-A cada usuario se le pidio que paraa cada término de búsqueda copie y pegue los tres primeros resultados devueltos por el buscador de Amazon.
+A cada usuario se le pidio que para cada término de búsqueda copie y pegue los tres primeros resultados devueltos por el buscador de Amazon.
 
 La muestra resulto ser muy pequeña, la encuesta fue respondida por 30 personas y hubo 4 respuestas que fueron desechadas porque estaban mal completadas. 
 
