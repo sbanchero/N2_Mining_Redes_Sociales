@@ -1,0 +1,9 @@
+[
+{"id":"1","resultado":"5 Blade Spiralizer - Best Vegetable Maker, Spiral Slicer, Peeler, and Shredder"},
+{"id":"2","resultado":"Amazon's Palermo Page"},
+{"id":"3","resultado":"Blinky Palermo: Retrospective 1964-77 (Dia Foundation) Hardcover"},
+{"id":"4","resultado":"Lonely Planet Sicily (Travel Guide)"},
+{"id":"5","resultado":"Palermo, City of Kings: The Heart of Sicily"},
+{"id":"6","resultado":"Palermo DTH-81 Digital Electronic BBQ Thermometer with Collapsible Internal Probe"},
+{"id":"7","resultado":"Palermo: Travels in the City of Happiness: Art, Architecture and History in Sicily"}
+]
