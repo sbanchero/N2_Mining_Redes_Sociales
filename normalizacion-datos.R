@@ -73,8 +73,9 @@ encuesta.dummy=data.frame(encuesta.dummy, dummies.atle, dummies.flor, dummies.pa
 encuesta.dummy.abreviado=encuesta.dummy[-c(5,8,9,10)]
 
 
-km=kmeans(encuesta.dummy.abreviado[-c(1,2,3,4,5,6)], 2, nstart = 100)
-enc.du.km=data.frame(encuesta.dummy.abreviado, km$cluster)
+km=kmeans(encuesta.dummy.abreviado[-c(1,2,3,4,5,6)], 4, nstart = 100)
+
+enc.du.km=data.frame(encuesta.dummy.abreviado, k4=km$cluster)
 
 parallel(enc.du.km)
 parcoord(encuesta.dummy.abreviado[-c(1,2,3,4,5,6)])
